@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/calypso.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/j2ee/comm.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/j2ee/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/j2ee/geronimo-j2ee-connector_1.5_spec-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/j2ee/geronimo-j2ee-management_1.1_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/j2ee/geronimo-jms_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/j2ee/geronimo-jta_1.0.1B_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/j2ee/geronimo-spec-servlet-2.4-rc4.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/j2ee/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/commons/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/commons/commons-cli-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/commons/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/commons/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/commons/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/commons/commons-digester.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/commons/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/commons/commons-logging-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/commons/commons-math-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/commons/commons-net-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/commons/commons-pool-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/commons/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/jaxb2/lib/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/jaxb2/lib/jaxb1-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/jaxb2/lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/jaxb2/lib/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/jaxb2/lib/jsr173_1.0_api.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/logging/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/logging/log4jextras.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/logging/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Calypso/software/V13/jars/thirdparty/logging/slf4j-log4j12-1.5.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

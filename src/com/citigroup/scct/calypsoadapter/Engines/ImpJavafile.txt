@@ -1,0 +1,38 @@
+1) DpsTradeEngine
+2) DpsAdapter
+3) Deal
+4) IDPSDataObject
+5) DPSTradeSave
+6)Transaction
+7) XMLPrintUtil
+8) StrUtil
+9) DPSTradeSave
+10)DpsAPINative
+11)DpsAPINAtive
+12)XMLSwingRender
+13)XmlUtil
+14)Parser
+15)MultiThreadDpsTradeEngine
+16)DPSTradeProcessThreade
+17)CalypsoGemfireRecon.java
+
+
+About DSPEngine
+----------------------------------------------------------------------------
+1)
+When a trade saved in calypso and if the trade is in verified status , the DPSEngine sent to the downstream DSPSystem as 
+the XML file and saves into the downstream system
+
+2) LiveSync
+Every 5 mins connects to the Marx database and if any data of Curves, Issuers and Levels changes it fetch those data
+and pesist in Calypso
+
+We maiantain the table in citi_livesyncstatus in this the column names
+1)App_name, sync_date, asofdate and status.
+First time we will pass the stored proc and date parametes.
+
+3)Written workflow rules for CalcAgent
+4)Written to Generate EOD Reports 1)RefObValidations2)Bid, Ask and Close prices for the current date
+5)FeeCalc implementation
+6)Implementated Stardization trades
+
